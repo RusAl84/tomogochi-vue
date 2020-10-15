@@ -43,12 +43,12 @@ export default {
       username: '',
       message: '',
       messages: [
-        {"username": "fddffdfdfd", "text": "texttexttexttexttexttext", "timestamp": "2020-10-15T17:05:12.417897Z"},
-        {"username": "fddffdfdfd", "text": "text", "timestamp": "2020-10-15T17:05:12.417897Z"},
-        {"username": "fddffdfdfd", "text": "text", "timestamp": "2020-10-15T17:05:12.417897Z"},
-        {"username": "fddffdfdfd", "text": "text", "timestamp": "2020-10-15T17:05:12.417897Z"},
-        {"username": "fddffdfdfd", "text": "text", "timestamp": "2020-10-15T17:05:12.417897Z"},
-        {"username": "fddffdfdfd", "text": "text", "timestamp": "2020-10-15T17:05:12.417897Z"},
+        {"username": "fddffdfdfd", "text": "texttexttexttexttexttext1", "timestamp": "2020-10-15T17:05:12.417897Z"},
+        {"username": "fddffdfdfd", "text": "texttexttexttexttexttext2", "timestamp": "2020-10-15T17:05:12.417897Z"},
+        {"username": "fddffdfdfd", "text": "texttexttexttexttexttext3", "timestamp": "2020-10-15T17:05:12.417897Z"},
+        {"username": "fddffdfdfd", "text": "texttexttexttexttexttext4", "timestamp": "2020-10-15T17:05:12.417897Z"},
+        {"username": "fddffdfdfd", "text": "texttexttexttexttexttext5", "timestamp": "2020-10-15T17:05:12.417897Z"},
+        {"username": "fddffdfdfd", "text": "texttexttexttexttexttext6", "timestamp": "2020-10-15T17:05:12.417897Z"},
       ],
     }
   },
